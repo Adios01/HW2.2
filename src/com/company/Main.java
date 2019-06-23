@@ -9,5 +9,8 @@ public class Main {
         int ranNum = r.nextInt(107);
         System.out.println("Случайное число " + ranNum);
 
+        int age = ranNum;
+        System.out.println("Мне " + age + " лет");
+
     }
 }
